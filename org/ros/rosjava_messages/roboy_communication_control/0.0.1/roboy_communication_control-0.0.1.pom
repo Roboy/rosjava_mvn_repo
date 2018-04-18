@@ -24,5 +24,17 @@
       <version>0.5.11</version>
       <scope>runtime</scope>
     </dependency>
+    <dependency>
+      <groupId>org.ros.rosjava_messages</groupId>
+      <artifactId>actionlib</artifactId>
+      <version>1.11.12</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.ros.rosjava_messages</groupId>
+      <artifactId>actionlib_msgs</artifactId>
+      <version>1.12.5</version>
+      <scope>runtime</scope>
+    </dependency>
   </dependencies>
 </project>
