@@ -2,8 +2,8 @@
 <metadata>
   <groupId>org.ros.rosjava_messages</groupId>
   <artifactId>controller_manager_msgs</artifactId>
-  <version>0.5.8</version>
   <versioning>
+    <release>0.13.0</release>
     <versions>
       <version>0.5.8</version>
       <version>0.7.3</version>
@@ -11,6 +11,6 @@
       <version>0.11.4</version>
       <version>0.13.0</version>
     </versions>
-    <lastUpdated>20180420012706</lastUpdated>
+    <lastUpdated>20180529115823</lastUpdated>
   </versioning>
 </metadata>
